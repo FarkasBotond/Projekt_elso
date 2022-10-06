@@ -36,6 +36,44 @@ h2{
 
 .ossze{
     background-color: #999999;
-    padding-top: 70px;
+    padding-top: 40px;
     margin-top: 150px;
+    margin-bottom: 0px;
+    bottom:0;
+    right:0;
+    left:0;
+    height:16vh;
+    text-align: center;
+}
+
+.nev{
+    color: azure;
+}
+
+.tablazat{
+    margin-top: 25px;
+}
+
+.kozep{
+    text-align: left;
+}
+
+.szamitogep{
+    float: right;
+}
+
+.numerikus{
+    padding-top: 350px;
+}
+
+.osszele{
+    background-color: #999999;
+    padding-top: 50px;
+    margin-top: 380px;
+    margin-bottom: 0px;
+    bottom:0;
+    right:0;
+    left:0;
+    height:16vh;
+    text-align: center;
 }
