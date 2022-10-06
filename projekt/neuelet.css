@@ -1,0 +1,41 @@
+body{
+    background-color: #a9a9a9;
+}
+
+h1{
+    text-align: center;
+    margin-top: 30px;
+    font-family: abyssinica SIL;
+}
+.elsokep{
+    width: 350px;
+}
+
+h2{
+    font-family: abyssinica SIL;
+}
+
+.iskolai{
+    margin-top: 235px;
+}
+.prof{
+    width: 25%;
+}
+
+.amer{
+    padding-top: 25px;
+}
+
+.elet{
+    padding-top: 150px;
+}
+
+.le{
+    padding-top: 320px;
+}
+
+.ossze{
+    background-color: #999999;
+    padding-top: 70px;
+    margin-top: 150px;
+}
