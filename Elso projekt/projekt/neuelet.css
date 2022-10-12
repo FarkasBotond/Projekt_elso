@@ -47,6 +47,7 @@ h2{
     text-align: center;
 }
 
-hr{
-    width: 50%;
+::selection{
+    background-color: black;
+    color: white;
 }
