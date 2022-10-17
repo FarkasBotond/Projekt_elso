@@ -80,4 +80,6 @@ button:hover{
     background-color: black;
     color: white;
 }
-
+.gomb{
+    float: right;
+}
