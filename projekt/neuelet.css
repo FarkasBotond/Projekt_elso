@@ -103,3 +103,23 @@ h2{
 .felsor{
     margin-left: 10px;
 }
+.oldallink{
+    text-decoration: none;
+}
+.oldallink:hover{
+    color: crimson;
+
+}
+.oldallink:visited{
+    color: bisque;
+    text-decoration:solid black;
+}
+#ieta, #prog{
+    font-size: 0.9em;
+    padding-top: 10px;
+}
+.golya{
+    font-size: 100%;
+}
+    
+
