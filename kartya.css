@@ -3,20 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
+.kartyadiv{
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #090221;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
 }
 .container{
     display: flex;
 }
 .card{
     position: relative;
-    width: 130px;
-    height: 160px;
+    width: 260px;
+    height: 320px;
     margin: 0 5px;
     background-color: red;
     transition: .3s;
@@ -51,7 +55,7 @@ rgba(0,0,0,1));
     transition: .3s;
     opacity: 0;
 }
-button{
+.irany{
     padding: .3rem .8rem;
     font-size: .6rem;
     border: none;
@@ -67,7 +71,7 @@ button{
     font-family: 'Poppins' , sans-serif;
 }
 .card:hover{
-    width: 220px;
+    width: 320px;
 }
 .card:hover img{
     transform: scale(1.1);
@@ -76,10 +80,19 @@ button{
     opacity: 1;
 }
 
-button:hover{
+.irany:hover{
     background-color: black;
     color: white;
+    size: 120%;
 }
 .gomb{
     float: right;
+}
+#focim{
+    text-align: center;
+    background-color: #090221;
+    padding-top: 100px;
+    color: whitesmoke;
+    font-variant: small-caps;
+    font-family: abyssinica SIL;
 }

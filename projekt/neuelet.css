@@ -121,5 +121,8 @@ h2{
 .golya{
     font-size: 100%;
 }
-    
+.gomb{
+    float:right;
+    padding-right: 10px;
+}    
 
